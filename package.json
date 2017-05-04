@@ -1,0 +1,24 @@
+{
+  "name": "atom-aden",
+  "main": "./lib/index",
+  "version": "0.1.0",
+  "description": "Control Aden from Atom.",
+  "keywords": [
+    "webpack",
+    "express",
+    "babel",
+    "dynamic",
+    "server",
+    "live reload",
+    "livereload"
+  ],
+  "activationEvents": [
+    "atom-aden:activate"
+  ],
+  "repository": "https://github.com/kommander/atom-aden",
+  "license": "proprietary",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
