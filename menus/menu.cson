@@ -1,6 +1,0 @@
-'context-menu':
-  '.tree-view .directory':
-    [{
-      label: 'Start Aden here',
-      command: 'atom-aden:startFromPath'
-    }]
